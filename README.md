@@ -5,7 +5,7 @@
 ## Overview
 - CTF: AHAU CTF 2025  
 - Team: EngivineSQD (later renamed to Lovee Feelings)  
-- Focus: Cryptography, Misc, Forensics  
+- Focus: Cryptography, Misc, Forensics, OSINT 
 - Position: Top 8 🏅  
 
 This repository contains my writeups for the challenges I solved during the competition.  
@@ -23,13 +23,14 @@ Each writeup documents the analysis, methodology, and solution process used to a
 ## Writeups
 
 ### Crypto
-- (add your crypto writeups here)
+- [All 100](./english/writeup_crypto_all_100.md)
+- [Sherlock Solid Bases](./english/writeup_crypto_sherlock_solidbases.md)
 
 ### Misc
-- (add your misc writeups here)
+- [Keyboard](./english/writeup_misc_keyboard.md)
 
 ### Forensics
-- (add your forensics writeups here)
+- [Blue](./english/writeup_forensics_blue.md)
 
 ---
 
@@ -48,7 +49,7 @@ Each writeup documents the analysis, methodology, and solution process used to a
 ## Resumen
 - CTF: AHAU CTF 2025  
 - Equipo: EngivineSQD (posteriormente Lovee Feelings)  
-- Enfoque: Criptografía, Misc, Forensics  
+- Enfoque: Criptografía, Misc, Forensics, OSINT
 - Posición: Top 8 🏅  
 
 Este repositorio contiene mis writeups de los retos que resolví durante la competencia.  
@@ -66,14 +67,17 @@ Cada writeup documenta el análisis, la metodología y el proceso de solución u
 ## Writeups
 
 ### Crypto
-- (agrega aquí tus retos de crypto)
+- [Todo al 100](./spanish/writeup_crypto_todo100.md)
+- [Bases Solidas](./spanish/writeup_crypto_bases_solidas.md)
 
 ### Misc
-- (agrega aquí tus retos misc)
+- [Teclado](./spanish/writeup_misc.md)
 
 ### Forensics
-- (agrega aquí tus retos de forensics)
+- [Azul](./spanish/writeup_forensics_blue.md)
 
+### OSINT
+- [Huacho](./spanish/Writeup_OSINT.md)
 ---
 
 ## Habilidades demostradas
