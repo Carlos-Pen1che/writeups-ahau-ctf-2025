@@ -1,23 +1,85 @@
-# 🐆 AHAU CTF 2025 Writeups
+# AHAU CTF 2025 — CTF Writeups
 
 ## 🇬🇧 English Version
 
-Hi! I'm a **first-semester Software Engineering student**, and this is my first experience with **Capture The Flag (CTF)** competitions. During the **AHAU CTF 2025**, I participated with my team **EngivineSQD**, which we later renamed to **Lovee Feelings** for future CTFs.
+## Overview
+- CTF: AHAU CTF 2025  
+- Team: EngivineSQD (later renamed to Lovee Feelings)  
+- Focus: Cryptography, Misc, Forensics  
+- Position: Top 8 🏅  
 
-This repository contains the **writeups and solutions** for the challenges I solved. I managed to complete several challenges, documenting my process with **explanations and steps I followed**, learning a lot along the way.  
+This repository contains my writeups for the challenges I solved during the competition.  
+Each writeup documents the analysis, methodology, and solution process used to approach the problem.
 
-We achieved **8th place 🏅** in the competition, which motivates me to keep learning and improving.  
+---
 
-As I participate in more CTFs, I plan to **improve my writeups and organize them better**, so this repository will grow with my learning journey.
+## Structure
+
+- /english → writeups in English  
+- /spanish → writeups in Spanish  
+
+---
+
+## Writeups
+
+### Crypto
+- (add your crypto writeups here)
+
+### Misc
+- (add your misc writeups here)
+
+### Forensics
+- (add your forensics writeups here)
+
+---
+
+## Skills Demonstrated
+
+- Problem Solving  
+- Cryptography Fundamentals  
+- File Analysis (Forensics)  
+- Logical Reasoning  
+- Analytical Thinking  
 
 ---
 
 ## 🇪🇸 Versión en Español
 
-¡Hola! Soy estudiante de **primer semestre de Ingeniería de Software**, y este es mi primer acercamiento a las competencias **Capture The Flag (CTF)**. Durante el **AHAU CTF 2025**, participé con mi equipo **EngivineSQD**, que más tarde renombramos a **Lovee Feelings** para futuros CTFs.
+## Resumen
+- CTF: AHAU CTF 2025  
+- Equipo: EngivineSQD (posteriormente Lovee Feelings)  
+- Enfoque: Criptografía, Misc, Forensics  
+- Posición: Top 8 🏅  
 
-Este repositorio contiene los **writeups y soluciones** de los retos que resolví. Logré completar varios desafíos, documentando mi proceso con **explicaciones y pasos que seguí**, aprendiendo mucho en el camino.  
+Este repositorio contiene mis writeups de los retos que resolví durante la competencia.  
+Cada writeup documenta el análisis, la metodología y el proceso de solución utilizado.
 
-Alcanzamos el **8vo lugar 🏅** en la competencia, lo cual me motiva a seguir aprendiendo y mejorando.  
+---
 
-A medida que participe en más CTFs, planeo **mejorar mis writeups y organizarlos mejor**, así que este repositorio irá creciendo junto con mi aprendizaje.
+## Estructura
+
+- /english → writeups en inglés  
+- /spanish → writeups en español  
+
+---
+
+## Writeups
+
+### Crypto
+- (agrega aquí tus retos de crypto)
+
+### Misc
+- (agrega aquí tus retos misc)
+
+### Forensics
+- (agrega aquí tus retos de forensics)
+
+---
+
+## Habilidades demostradas
+
+- Resolución de problemas  
+- Fundamentos de criptografía  
+- Análisis de archivos (Forensics)  
+- Pensamiento lógico  
+- Pensamiento analítico
